@@ -3,7 +3,7 @@ A prototype service to explore how RESTful APls can enhance experience of passen
 
 This API extracts relevant data from the Deutsche Bahn (German high speed train network) database and uses Google Gemini to create a tourism guide. The API contains the following features, all polished with endpoints and swaggerdoc adhering to RESTful API Design guidelines.This Data Service stores all data in an SQLite database, querying when necessary.
 
-Access the Swagger OpenAPI docs here: [link TBA]
+*Note: You may get a 403 unauthorised error when attempting to run the project locally.*
 
 ## Setup
 
